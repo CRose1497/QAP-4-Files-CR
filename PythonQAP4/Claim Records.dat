@@ -1,0 +1,37 @@
+Customer: Christian Rose
+Address: 5 Orange St., St. Johns, NL, A1W 4F4
+Phone Number: 7091234567
+Number of Cars: 1
+Extra Liability Coverage: Yes
+Glass Coverage: Yes
+Loaner Car Coverage: Yes
+Payment Method: Full
+Total Insurance Premium (Pretax): $869.00
+Claims:
+    Claim Number: 1, Claim Date: 02-02-2024, Amount: $1200.00
+============================================================
+Customer: Melissa Squires
+Address: 2 Brown St., Mount Pearl, NL, A1W 2D3
+Phone Number: 7091231234
+Number of Cars: 2
+Extra Liability Coverage: No
+Glass Coverage: Yes
+Loaner Car Coverage: No
+Payment Method: Monthly
+Total Insurance Premium (Pretax): $1520.75
+Claims:
+    Claim Number: 1, Claim Date: 01-14-2024, Amount: $1400.00
+    Claim Number: 2, Claim Date: 03-04-2024, Amount: $1500.00
+    Claim Number: 3, Claim Date: 04-04-2024, Amount: $1200.00
+============================================================
+Customer: George Rhodes
+Address: 10 Ottawa Ave, St. Johns, NL, a1e 3t5
+Phone Number: 7092341234
+Number of Cars: 1
+Extra Liability Coverage: No
+Glass Coverage: No
+Loaner Car Coverage: No
+Payment Method: Down Pay
+Total Insurance Premium (Pretax): $869.00
+Claims:
+============================================================
